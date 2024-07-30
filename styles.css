@@ -36,11 +36,11 @@ html{
 }
 
 .background{
-    transform: translateZ(-20px) scale(4);
+    transform: translateZ(-40px) scale(5);
    
 }
 .foreground{
-    transform: translateZ(-10px) scale(2);
+    transform: translateZ(-20px) scale(3);
 }
 
 
